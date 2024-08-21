@@ -52,7 +52,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Cyber Security", "Full-Stack development", "App Development", "Tech Communities"],
+        strings: ["Cyber Security", "SOC Analyst", "VAPT", "ISO27001"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
